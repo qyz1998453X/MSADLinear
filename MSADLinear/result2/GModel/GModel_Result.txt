@@ -1,0 +1,9 @@
+PEMRs GModel summary
+disease  weather      h= 1 MAE=10.809 RMSE=13.733 SMAPE=31.30%
+disease  weather      h= 3 MAE=13.676 RMSE=16.964 SMAPE=36.53%
+disease  weather_lag3 h= 1 MAE=10.849 RMSE=13.755 SMAPE=31.40%
+disease  weather_lag3 h= 3 MAE=13.671 RMSE=16.961 SMAPE=36.53%
+pest     weather      h= 1 MAE=35.456 RMSE=43.855 SMAPE=32.66%
+pest     weather      h= 3 MAE=44.544 RMSE=53.813 SMAPE=39.07%
+pest     weather_lag3 h= 1 MAE=35.591 RMSE=43.918 SMAPE=32.72%
+pest     weather_lag3 h= 3 MAE=44.454 RMSE=53.853 SMAPE=39.00%

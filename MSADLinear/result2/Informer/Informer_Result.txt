@@ -1,0 +1,9 @@
+PEMRs Informer summary
+disease  weather      h= 1 MAE=15.298 RMSE=18.705 SMAPE=42.54%
+disease  weather      h= 3 MAE=18.278 RMSE=21.826 SMAPE=53.62%
+disease  weather_lag3 h= 1 MAE=16.193 RMSE=19.060 SMAPE=44.26%
+disease  weather_lag3 h= 3 MAE=19.759 RMSE=22.937 SMAPE=55.36%
+pest     weather      h= 1 MAE=44.250 RMSE=55.059 SMAPE=41.99%
+pest     weather      h= 3 MAE=57.171 RMSE=69.264 SMAPE=49.61%
+pest     weather_lag3 h= 1 MAE=42.703 RMSE=52.146 SMAPE=38.43%
+pest     weather_lag3 h= 3 MAE=53.516 RMSE=64.025 SMAPE=49.87%

@@ -1,0 +1,9 @@
+PEMRs TCN summary
+disease  weather      h= 1 MAE=12.108 RMSE=14.863 SMAPE=35.29%
+disease  weather      h= 3 MAE=15.110 RMSE=18.165 SMAPE=41.07%
+disease  weather_lag3 h= 1 MAE=12.480 RMSE=15.205 SMAPE=35.86%
+disease  weather_lag3 h= 3 MAE=14.633 RMSE=17.609 SMAPE=39.47%
+pest     weather      h= 1 MAE=37.273 RMSE=46.495 SMAPE=33.24%
+pest     weather      h= 3 MAE=47.365 RMSE=56.742 SMAPE=44.15%
+pest     weather_lag3 h= 1 MAE=37.981 RMSE=47.274 SMAPE=34.35%
+pest     weather_lag3 h= 3 MAE=46.302 RMSE=55.827 SMAPE=43.12%

@@ -1,0 +1,9 @@
+PEMRs Autoformer summary
+disease  weather      h= 1 MAE=15.384 RMSE=18.545 SMAPE=42.60%
+disease  weather      h= 3 MAE=16.983 RMSE=20.766 SMAPE=46.15%
+disease  weather_lag3 h= 1 MAE=14.052 RMSE=17.618 SMAPE=39.52%
+disease  weather_lag3 h= 3 MAE=18.018 RMSE=21.241 SMAPE=48.67%
+pest     weather      h= 1 MAE=40.962 RMSE=51.208 SMAPE=37.60%
+pest     weather      h= 3 MAE=51.386 RMSE=64.324 SMAPE=46.41%
+pest     weather_lag3 h= 1 MAE=42.985 RMSE=52.314 SMAPE=37.60%
+pest     weather_lag3 h= 3 MAE=51.101 RMSE=62.577 SMAPE=44.76%

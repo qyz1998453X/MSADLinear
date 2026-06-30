@@ -1,0 +1,9 @@
+PEMRs DLinear summary
+disease  weather      h= 1 MAE=11.007 RMSE=13.870 SMAPE=31.62%
+disease  weather      h= 3 MAE=13.663 RMSE=16.961 SMAPE=36.50%
+disease  weather_lag3 h= 1 MAE=10.869 RMSE=13.756 SMAPE=31.45%
+disease  weather_lag3 h= 3 MAE=13.642 RMSE=16.951 SMAPE=36.43%
+pest     weather      h= 1 MAE=35.515 RMSE=43.792 SMAPE=32.70%
+pest     weather      h= 3 MAE=44.787 RMSE=54.190 SMAPE=39.26%
+pest     weather_lag3 h= 1 MAE=35.567 RMSE=43.782 SMAPE=32.73%
+pest     weather_lag3 h= 3 MAE=44.762 RMSE=54.131 SMAPE=39.24%

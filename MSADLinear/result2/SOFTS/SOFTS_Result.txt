@@ -1,0 +1,9 @@
+PEMRs SOFTS summary
+disease  weather      h= 1 MAE=16.987 RMSE=20.312 SMAPE=44.51%
+disease  weather      h= 3 MAE=19.905 RMSE=23.162 SMAPE=55.08%
+disease  weather_lag3 h= 1 MAE=16.524 RMSE=19.657 SMAPE=44.98%
+disease  weather_lag3 h= 3 MAE=19.069 RMSE=22.565 SMAPE=53.35%
+pest     weather      h= 1 MAE=54.755 RMSE=64.982 SMAPE=50.41%
+pest     weather      h= 3 MAE=59.307 RMSE=68.594 SMAPE=50.18%
+pest     weather_lag3 h= 1 MAE=58.978 RMSE=70.074 SMAPE=50.88%
+pest     weather_lag3 h= 3 MAE=60.731 RMSE=72.421 SMAPE=53.36%

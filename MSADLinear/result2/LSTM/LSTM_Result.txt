@@ -1,0 +1,9 @@
+PEMRs LSTM summary
+disease  weather      h= 1 MAE=13.969 RMSE=16.985 SMAPE=40.71%
+disease  weather      h= 3 MAE=18.441 RMSE=21.342 SMAPE=49.06%
+disease  weather_lag3 h= 1 MAE=15.186 RMSE=18.232 SMAPE=45.18%
+disease  weather_lag3 h= 3 MAE=16.498 RMSE=19.713 SMAPE=44.30%
+pest     weather      h= 1 MAE=40.333 RMSE=48.902 SMAPE=37.58%
+pest     weather      h= 3 MAE=51.458 RMSE=61.927 SMAPE=47.35%
+pest     weather_lag3 h= 1 MAE=48.638 RMSE=59.791 SMAPE=44.52%
+pest     weather_lag3 h= 3 MAE=56.876 RMSE=67.216 SMAPE=54.07%

@@ -1,0 +1,9 @@
+PEMRs PatchTST summary
+disease  weather      h= 1 MAE=12.039 RMSE=15.185 SMAPE=32.97%
+disease  weather      h= 3 MAE=14.889 RMSE=18.141 SMAPE=38.69%
+disease  weather_lag3 h= 1 MAE=12.334 RMSE=15.384 SMAPE=34.65%
+disease  weather_lag3 h= 3 MAE=14.247 RMSE=17.479 SMAPE=37.84%
+pest     weather      h= 1 MAE=38.632 RMSE=49.482 SMAPE=36.08%
+pest     weather      h= 3 MAE=46.666 RMSE=56.475 SMAPE=40.80%
+pest     weather_lag3 h= 1 MAE=36.306 RMSE=45.618 SMAPE=32.62%
+pest     weather_lag3 h= 3 MAE=45.144 RMSE=56.213 SMAPE=39.62%
