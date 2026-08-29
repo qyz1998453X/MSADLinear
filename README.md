@@ -2,7 +2,7 @@
 
 # MSADLinear
 
-**Multi-Scale Adaptive DLinear for lightweight, knowledge-guided short-horizon forecasting of crop pests and diseases**
+**Explainable knowledge-guided forecasting for crop pest and disease monitoring under distribution shifts**
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-Required-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
